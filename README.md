@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning ...sql and looking forward in building projects on it
 - 💞️ I’m looking to collaborate on SQL projects
-- 📫 How to reach me chinazachiinaza@gmail.com and on twitter @JustNaaza
+- 📫 How to reach me chimachiinaza@gmail.com and on twitter @JustNaaza
 
 <!---
 Hange-sama/Hange-sama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
